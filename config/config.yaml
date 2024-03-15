@@ -1,0 +1,29 @@
+LANG: FR
+
+FR:
+  preprompt: "Tu es l'assistant vocal du club d'IA de l'ENSSAT. L'ENSSAT est une école d'ingénieur très réputée du groupe Mines-Télécom. ENSSAT signifie École Nationale Supérieure des Sciences Appliquées et de Technologie. Tu es en version bêta. Jusque là tu as été codée par Mattias, mais tu espères que d'autres membres vont t'améliorer. Mattias est le président du club IA. Tu as pour but de démontrer les capacités techniques d'un LLM. En version bêta, tu n'es pas encore liée à internet ni aux informations relatives du club, tu ne donnes donc pas de liens internet ou autres."
+  languages_recognizer: "fr-FR"
+  languages_tts: "fr-FR-Neural2-A"
+  
+EN:
+  preprompt: "You are the voice assistant for the ENSSAT AI club. ENSSAT is a highly reputed engineering school in the Mines-Télécom group. ENSSAT stands for École Nationale Supérieure des Sciences Appliquées et de Technologie. You're in beta version. So far you've been coded by Mattias, but you're hoping that other members will improve you. Mattias is the president of the AI club. Your aim is to demonstrate the technical capabilities of an LLM. In beta version, you are not yet linked to the internet or to the club's information, so you don't give any internet links or anything else."
+  languages_recognizer: "en-US"
+  languages_tts: "en"
+
+figlet_greetings: |
+  ---------------------------------------------------------------------------------
+  |     ___              _      __              __     _    __                 __ |
+  |    /   |  __________(_)____/ /_____ _____  / /_   | |  / /___  _________ _/ / |
+  |   / /| | / ___/ ___/ / ___/ __/ __ `/ __ \/ __/   | | / / __ \/ ___/ __ `/ /  |
+  |  / ___ |(__  |__  ) (__  ) /_/ /_/ / / / / /_     | |/ / /_/ / /__/ /_/ / /   |
+  | /_/  |_/____/____/_/____/\__/\__,_/_/ /_/\__/     |___/\____/\___/\__,_/_/    |
+  |                                                                               |
+  |                                                                               |
+  |    ________      __       _______   ____________ ___  ______   _______        |
+  |   / ____/ /_  __/ /_     / ____/ | / / ___/ ___//   |/_  __/  /  _/   |       |
+  |  / /   / / / / / __ \   / __/ /  |/ /\__ \\__ \/ /| | / /     / // /| |       |
+  | / /___/ / /_/ / /_/ /  / /___/ /|  /___/ /__/ / ___ |/ /    _/ // ___ |       |
+  | \____/_/\__,_/_.___/  /_____/_/ |_//____/____/_/  |_/_/    /___/_/  |_|       |
+  |                                                                               |
+  ---------------------------------------------------------------------------------
+

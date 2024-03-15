@@ -1,0 +1,4 @@
+PyAudio
+SpeechRecognition
+google-cloud-texttospeech==2.0.0
+openai
